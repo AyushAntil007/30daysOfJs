@@ -60,6 +60,7 @@ btn1.addEventListener("click",()=>{
      para.innerText="Namaste Duniya";
 });
 
+
 //Task-10
 para.addEventListener("mouseover",()=>{
     para.style.border="2px solid white";
